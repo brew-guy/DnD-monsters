@@ -3,7 +3,7 @@ body {
 }
 
 .box {
-  max-height: 90vh;
+  max-height: 92vh;
   border: 2px solid goldenrod;
   scroll-behavior: smooth;
   overflow: auto;
@@ -14,4 +14,8 @@ body {
 .card {
   height: fit-content;
   padding-top: 10px;
+}
+
+footer {
+  margin-top: 10px;
 }
