@@ -1,0 +1,17 @@
+body {
+  background-color: bisque;
+}
+
+.box {
+  max-height: 90vh;
+  border: 2px solid goldenrod;
+  scroll-behavior: smooth;
+  overflow: auto;
+  margin-right: 15px;
+  text-align: justify;
+}
+
+.card {
+  height: fit-content;
+  padding-top: 10px;
+}
